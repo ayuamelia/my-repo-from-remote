@@ -1,8 +1,29 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: rgb(161, 255, 242);
+ }
+  
+ #profile-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+ }
+  
+ #profile-image{
+    width: 100%;
+    height: auto;
+ }
+  
+ #profile-name{
+    text-align: center;
+ }
 #header {
     width: 100%;
     height: 50px;
     line-height: 50px;
-    background-color: burlywood;
+    background-color: rgb(9, 71, 95);
     text-align: center;
     color: white;
  }
@@ -11,7 +32,7 @@
     width: 100%;
     height: 50px;
     line-height: 50px;
-    background-color: burlywood;
+    background-color: rgb(9, 71, 95);
     text-align: center;
     color: white;
  }
