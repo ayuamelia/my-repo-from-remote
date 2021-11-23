@@ -12,10 +12,10 @@ img{
 
 #profile-container {
    max-width: 300px;
+   margin: 80px auto;
    background-color: rgb(161, 248, 248);
    border: 1px solid rgb(49, 53, 52);
    border-radius: 6px;
-   margin-top: 20px;
 }
 
 #profile-image {
